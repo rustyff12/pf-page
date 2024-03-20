@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root {
+    --clr-black: #040f0f;
+    --clr-white: #f4f4f8;
+    --clr-silver: #a5a5a5;
+    --clr-blue: #60b2e5;
+    --clr-red: #fe4a49;
+    --clr-yellow: #f8f272;
+    --clr-green: #5ef38c;
+}
